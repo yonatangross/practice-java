@@ -17,6 +17,9 @@ public class Main {
         System.out.println(list.find(4));
         list.delete(4);
         list.printList();
+        System.out.println(list.insertAfter(myNode,4));
+
+        list.printList();
     }
 }
 

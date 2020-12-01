@@ -61,6 +61,7 @@ public class LinkedList<T> {
 
     public void printList() {
         Node<T> current = this.head;
+        System.out.println();
         while (current != null) {
             System.out.print(current.data.toString() + " ");
             current = current.next;
@@ -93,4 +94,26 @@ public class LinkedList<T> {
         // unlink the node
         prev.next = curr.next;
     }
+
+    public boolean insertAfter(Node<T> node, T data) {
+        Node<T> newNode = new Node<>(data);
+        Node<T> curr = head;
+        if (node == null) {
+            newNode.next = head;
+            head = newNode;
+            return true;
+        }
+
+        while (curr != null && curr != node) {
+            curr = curr.next;
+        }
+
+        if (curr == node) {
+            newNode.next = curr.next;
+            curr.next = newNode;
+            return true;
+        }
+        return false;
+    }
 }
+
