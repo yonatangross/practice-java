@@ -8,5 +8,7 @@
 * [List Partitioning](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/ListPartitioning.java)
 * [List Splitting](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/ListSplitting.java)
 * [Richest Customer Wealth](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RichestCustomerWealth.java)
+* [Sum of Two Numbers](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/SumOfTwoNumbers.java)
+
 
 
