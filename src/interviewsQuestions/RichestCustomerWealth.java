@@ -1,7 +1,7 @@
 package interviewsQuestions;
 
-class Solution {
-    public int maximumWealth(int[][] accounts) {
+class RichestCustomerWealth {
+    public static int solve(int[][] accounts) {
         int maxWealth=0;
 
         for (int[] account : accounts) {
@@ -14,5 +14,11 @@ class Solution {
             }
         }
         return maxWealth;
+    }
+
+    public static void main(String[] args){
+        int[][] accounts={{2,8,7},{7,1,3},{1,9,5}};
+        int res=solve(accounts);
+        System.out.println(res);
     }
 }
