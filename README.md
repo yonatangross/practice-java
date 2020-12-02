@@ -11,6 +11,7 @@
 * [Sum of Two Numbers](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/SumOfTwoNumbers.java)
 * [Palindromic Integer](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/PalindromicInteger.java)
 * [Two Sum](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/TwoSum.java)
+* [Largest Number By Two Times](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/LargestNumberByTwoTimes.java)
 
 
 
