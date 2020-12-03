@@ -13,8 +13,8 @@
 * [Two Sum](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/TwoSum.java)
 * [Largest Number By Two Times](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/LargestNumberByTwoTimes.java)
 * [Running Sum of 1d Array](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RunningSum1DArray.java)
-* [Duplicate Zeros]](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/DuplicateZeros.java)
-
+* [Duplicate Zeros](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/DuplicateZeros.java)
+* [Merge Sorted Array](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/MergeSortedArray.java)
 ### Algorithms
 #### Sorting Algorithms
 * [MergeSort](https://github.com/yonatangross/practice-java/blob/master/src/algorithms/MergeSort.java)
