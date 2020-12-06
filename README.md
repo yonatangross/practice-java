@@ -15,6 +15,8 @@
 * [Running Sum of 1d Array](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RunningSum1DArray.java)
 * [Duplicate Zeros](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/DuplicateZeros.java)
 * [Merge Sorted Array](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/MergeSortedArray.java)
+* [Remove elements with value from array In-Place](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RemoveElementInPlaceFromArray.java)
+
 ### Algorithms
 #### Sorting Algorithms
 * [MergeSort](https://github.com/yonatangross/practice-java/blob/master/src/algorithms/MergeSort.java)
