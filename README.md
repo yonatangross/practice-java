@@ -18,6 +18,7 @@
 * [Remove elements with value from array In-Place](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RemoveElementInPlaceFromArray.java)
 * [Unique Occurrences](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/UniqueOccurrences.java)
 * [3-6-9](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/ThreeSixNine.java)
+* [Run Length Encoding](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RunLengthEncoding.java)
 
 
 ### Algorithms
