@@ -20,6 +20,7 @@
 * [3-6-9](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/ThreeSixNine.java)
 * [Run Length Encoding](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RunLengthEncoding.java)
 * [Strictly Increasing or Strictly Decreasing](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/StrictlyIncreasingOrStrictlyDecreasing.java)
+* [A Unique String](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/AUniqueString.java)
 
 
 
