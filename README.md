@@ -16,6 +16,8 @@
 * [Duplicate Zeros](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/DuplicateZeros.java)
 * [Merge Sorted Array](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/MergeSortedArray.java)
 * [Remove elements with value from array In-Place](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/RemoveElementInPlaceFromArray.java)
+* [Unique Occurrences](https://github.com/yonatangross/practice-java/blob/master/src/interviewsQuestions/UniqueOccurrences.java)
+
 
 ### Algorithms
 #### Sorting Algorithms
